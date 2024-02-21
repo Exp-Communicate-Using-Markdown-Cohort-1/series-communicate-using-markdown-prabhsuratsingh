@@ -7,3 +7,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Configure Git
+- [ ] Connect to remote account
+- [ ] Start contributing
